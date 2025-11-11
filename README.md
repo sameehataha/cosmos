@@ -106,13 +106,11 @@ This project is open source and available under the MIT License.
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 👨‍💻 Author
-Your Name
 Sameeha Taha
 GitHub: @sameehataha
 
-
-
 Made with ❤️ and curiosity about the cosmos 🌌
+
 
 
 
