@@ -1,4 +1,5 @@
 Cosmos Facts 🌠
+
 A beautiful, interactive React application that displays fascinating facts about the cosmos with draggable cards powered by Framer Motion.
 ![Cosmos Facts Demo](cosmos.png)
 
@@ -28,13 +29,9 @@ bashgit clone https://github.com/sameehataha/cosmos.git
 cd fm-projects
 
 Install dependencies:
-
 bashnpm install
-
 Run the development server:
-
 bashnpm run dev
-
 Open your browser and visit http://localhost:5173
 
 🎨 Project Structure
@@ -116,5 +113,6 @@ GitHub: @sameehataha
 
 
 Made with ❤️ and curiosity about the cosmos 🌌
+
 
 
