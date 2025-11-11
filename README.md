@@ -1,6 +1,6 @@
 Cosmos Facts 🌠
 A beautiful, interactive React application that displays fascinating facts about the cosmos with draggable cards powered by Framer Motion.
-![not found](./fm-project/src/assets/cosmos.png)
+![not found](src/assets/cosmos.png)
 
 
 ✨ Features
@@ -112,6 +112,7 @@ Contributions, issues, and feature requests are welcome!
 Your Name
 Sameeha Taha
 GitHub: @sameehataha
+
 
 
 Made with ❤️ and curiosity about the cosmos 🌌
