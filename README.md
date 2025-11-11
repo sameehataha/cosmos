@@ -25,7 +25,7 @@ Lucide React - Beautiful icon set
 Clone the repository:
 
 bashgit clone https://github.com/sameehataha/cosmos.git
-cd cosmos-facts
+cd fm-projects
 
 Install dependencies:
 
@@ -116,4 +116,5 @@ GitHub: @sameehataha
 
 
 Made with ❤️ and curiosity about the cosmos 🌌
+
 
