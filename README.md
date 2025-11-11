@@ -3,7 +3,6 @@ Cosmos Facts 🌠
 A beautiful, interactive React application that displays fascinating facts about the cosmos with draggable cards powered by Framer Motion.
 ![Cosmos Facts Demo](cosmos.png)
 
-
 ✨ Features
 
 Interactive Draggable Cards: Drag and drop cards anywhere on the screen with smooth physics-based animations
@@ -13,6 +12,7 @@ Responsive Animations: Cards scale up while dragging for better visual feedback
 Status Indicators: Each card shows whether it's open/closed with moon and cross icons
 Tag System: Color-coded tags (blue/pink) for different categories
 
+
 🛠️ Technologies Used
 
 React - Frontend library
@@ -21,10 +21,10 @@ Tailwind CSS - Utility-first CSS framework
 Vite - Fast build tool and dev server
 Lucide React - Beautiful icon set
 
+
 📦 Installation
 
 Clone the repository:
-
 bashgit clone https://github.com/sameehataha/cosmos.git
 cd fm-projects
 
@@ -33,6 +33,7 @@ bashnpm install
 Run the development server:
 bashnpm run dev
 Open your browser and visit http://localhost:5173
+
 
 🎨 Project Structure
 src/
@@ -44,8 +45,11 @@ src/
 ├── index.css             # Global styles with custom fonts
 └── main.jsx              # Application entry point
 
+
 🎯 How It Works
+
 Card Component
+
 Each card features:
 
 Drag Constraints: Cards can only be dragged within the viewport
@@ -54,8 +58,8 @@ Elastic Drag: Smooth, bouncy drag behavior
 Icons: File, Star, Moon/Cross icons for visual appeal
 Color-coded Tags: Blue or pink tags at the bottom
 
-Framer Motion Properties
 
+Framer Motion Properties
 drag - Enables dragging
 dragConstraints - Limits drag area to parent container
 whileDrag - Applies scale animation during drag
@@ -76,8 +80,8 @@ javascriptconst data = [
     },
   },
 ]
-Changing Colors
 
+Changing Colors
 Background: Modify bg-zinc-800 in App.jsx
 Cards: Modify bg-zinc-400 in Card.jsx
 Tags: Change bg-blue-300 or bg-pink-200 in Card.jsx
@@ -89,10 +93,13 @@ dragTransition={{
   bounceStiffness: 600,  // Higher = less bounce
   bounceDamping: 10      // Higher = faster settling
 }}
-🌟 Key Features Explained
-FeatureDescriptionDrag ConstraintsCards stay within viewport boundariesScale AnimationCards enlarge when grabbed for better feedbackElastic DragBouncy, physics-based drag behaviorCustom FontBebas Neue font for a modern lookIcon SystemLucide React icons for consistent design
-📱 Browser Support
 
+🌟 Key Features Explained
+
+FeatureDescriptionDrag ConstraintsCards stay within viewport boundariesScale AnimationCards enlarge when grabbed for better feedbackElastic DragBouncy, physics-based drag behaviorCustom FontBebas Neue font for a modern lookIcon SystemLucide React icons for consistent design
+
+
+📱 Browser Support
 Chrome (recommended)
 Firefox
 Safari
@@ -105,11 +112,13 @@ The optimized files will be in the dist folder.
 This project is open source and available under the MIT License.
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
+
 👨‍💻 Author
 Sameeha Taha
 GitHub: @sameehataha
 
 Made with ❤️ and curiosity about the cosmos 🌌
+
 
 
 
